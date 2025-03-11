@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JCivR5wXq8=",
+  "success": true,
+  "projectFilePath": "/Users/dejan/RiderProjects/MagicContainers.Demos/MagicContainers.Demos.DnsServer/MagicContainers.Demos.DnsServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/dejan/.nuget/packages/arsoft.tools.net.dns/2.3.1/arsoft.tools.net.dns.2.3.1.nupkg.sha512",
+    "/Users/dejan/.nuget/packages/bouncycastle.netcore/1.8.10/bouncycastle.netcore.1.8.10.nupkg.sha512"
+  ],
+  "logs": []
+}
